@@ -1,0 +1,64 @@
+[
+    {
+        "model": "imageutils.BlogHeader",
+        "pk": 1,
+        "fields": {
+          "alt": "Header ALT-1",
+          "image_path": "static/upload/200650.png",
+          "has_correct_dimension":"False",
+          "dimension_checked":"False"
+        }
+      },
+      {
+        "model": "imageutils.BlogHeader",
+        "pk": 2,
+        "fields": {
+          "alt": "Header ALT-2",
+          "image_path": "static/upload/390680.png",
+          "has_correct_dimension":"False",   
+          "dimension_checked":"False"
+       
+        }
+      },
+      {
+        "model": "imageutils.BlogHeader",
+        "pk": 3,
+        "fields": {
+          "alt": "This is ALT-3",
+          "image_path": "static/upload/440570.png",
+          "has_correct_dimension":"False",   
+          "dimension_checked":"False"
+        }
+      },
+      {
+        "model": "imageutils.BlogHeader",
+        "pk": 4,
+        "fields": {
+          "alt": "This is ALT-4",
+          "image_path": "static/upload/450450.png",
+          "has_correct_dimension":"False",   
+          "dimension_checked":"False"
+        }
+      },
+      {
+        "model": "imageutils.BlogHeader",
+        "pk": 5,
+        "fields": {
+          "alt": "This is ALT-5",
+          "image_path": "static/upload/500400.png",
+          "has_correct_dimension":"False",   
+          "dimension_checked":"False"
+        }
+      },
+      {
+        "model": "imageutils.BlogHeader",
+        "pk": 6,
+        "fields": {
+          "alt": "This is ALT-6",
+          "image_path": "static/upload/900300.png",
+          "has_correct_dimension":"False",   
+          "dimension_checked":"False"
+        }
+      }   
+         
+  ]
